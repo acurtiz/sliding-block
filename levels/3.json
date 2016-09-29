@@ -1,0 +1,43 @@
+{
+	"enemies": [
+		{}
+	],
+	
+	"slickbox": [
+		{
+			"x":0,
+			"y":100,
+			"width":500,
+			"height":380
+		}
+	],
+	
+	"nowalkbox": [
+		{
+			"x":100,
+			"y":100,
+			"width":100,
+			"height":380	
+		}
+
+	],
+	"endpoint": [
+		{
+			"x":250,
+			"y":430,
+			"width":50,
+			"height":50
+		}
+	],
+	"startpoint": [
+		{
+			"x":50,
+			"y":10,
+			"width":50,
+			"height":50
+		}
+	]
+}
+	
+	
+	

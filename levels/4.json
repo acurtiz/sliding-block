@@ -1,0 +1,18 @@
+{
+	"enemies":[
+		{"x": 400, "y": 183, "width": 20, "height": 20, "ymove": 0, "xmove": -1},
+		{"x": 0, "y": 276, "width": 20, "height": 20, "ymove": 0, "xmove": 1}],
+	"slickbox":[
+		{"x": 50, "y": 50, "width":350, "height":50}, 
+		{"x":400, "y": 50, "width":50, "height":380}, 
+		{"x":50, "y": 380, "width":350, "height":50}],
+	"nowalkbox":[
+		{"x":0, "y":100, "width":400, "height":280},
+		{"x":50, "y":0, "width":450, "height":50},
+		{"x":450, "y":0, "width":50, "height":480},
+		{"x":0, "y":430, "width":500, "height":50}],
+	"endpoint":[
+		{"x":0,"y":380,"width":50,"height":50}],
+	"startpoint":	[
+		{"x":0,"y":0,"width":50,"height":50}]
+}
